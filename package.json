@@ -1,0 +1,23 @@
+{
+  "name": "ahformatter-vscode-css-en",
+  "displayName": "AH Formatter CSS extension properties",
+  "description": "AH Formatter CSS extension properties",
+  "version": "7.2.4",
+  "publisher": "AntennaHouse",
+  "icon": "images/ahformatter-vscode-css-en.png",
+  "repository": "https://github.com/AntennaHouse/ahformatter-vscode-css",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "contributes": {
+    "css": {
+      "customData": [
+        "./data/ahformatter.css-data.json"
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.abbreviation-character-count"
         },
         {
@@ -19,7 +19,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.action-type"
         } ],
       "name": "-ah-action-type",
@@ -31,7 +31,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.additive-symbols"
         },
         {
@@ -45,7 +45,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.additive-symbols"
         },
         {
@@ -59,7 +59,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.adjust-last-line-spacing"
         },
         {
@@ -73,7 +73,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.alignment-adjust"
         },
         {
@@ -90,7 +90,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.alignment-adjust"
         },
         {
@@ -107,7 +107,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.alignment-baseline"
         },
         {
@@ -124,7 +124,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.alignment-baseline"
         },
         {
@@ -163,7 +163,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.alttext"
         },
         {
@@ -183,7 +183,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-end-blank-page"
         } ],
       "name": "-ah-analyze-end-blank-page",
@@ -194,7 +194,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-hyphen"
         } ],
       "name": "-ah-analyze-hyphen",
@@ -205,7 +205,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-line-end-repeat"
         } ],
       "name": "-ah-analyze-line-end-repeat",
@@ -216,7 +216,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-line-start-repeat"
         } ],
       "name": "-ah-analyze-line-start-repeat",
@@ -227,7 +227,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-lines-after"
         } ],
       "name": "-ah-analyze-lines-after",
@@ -238,7 +238,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-lines-before"
         } ],
       "name": "-ah-analyze-lines-before",
@@ -249,7 +249,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-page-widow"
         } ],
       "name": "-ah-analyze-page-widow",
@@ -260,7 +260,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-paragraph-widow"
         } ],
       "name": "-ah-analyze-paragraph-widow",
@@ -271,7 +271,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-river"
         } ],
       "name": "-ah-analyze-river",
@@ -282,7 +282,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-unbalanced-spread"
         } ],
       "name": "-ah-analyze-unbalanced-spread",
@@ -293,7 +293,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-analyzer.html#axf.analyze-white-space"
         } ],
       "name": "-ah-analyze-white-space",
@@ -305,7 +305,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-author"
         },
         {
@@ -319,7 +319,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-border-color"
         },
         {
@@ -336,7 +336,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-border-style"
         },
         {
@@ -353,7 +353,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-border-width"
         },
         {
@@ -370,7 +370,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-color"
         },
         {
@@ -387,7 +387,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-contents"
         },
         {
@@ -401,7 +401,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-createdate"
         },
         {
@@ -419,7 +419,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-file-attachment"
         },
         {
@@ -429,14 +429,31 @@
       ],
       "name": "-ah-annotation-file-attachment",
       "description": {
-        "value": "Specifies the file with which file attachment annotation is related.\n\n&lt;uri-specification>",
+        "value": "Specifies the file with which the file attachment annotation is related.\n\n&lt;uri-specification>",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-file-name"
+        },
+        {
+          "name": "Annotations in PDF document (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/pdf\/axf-annotation-1.pdf"
+        }
+      ],
+      "name": "-ah-annotation-file-name",
+      "description": {
+        "value": "Specifies the alternate file name to output when specifying the file attachment annotation.\n\n&lt;string>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-flags"
         },
         {
@@ -450,7 +467,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-font-family"
         },
         {
@@ -467,7 +484,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-font-size"
         },
         {
@@ -484,7 +501,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-font-style"
         },
         {
@@ -501,7 +518,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-font-weight"
         },
         {
@@ -518,7 +535,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-height"
         },
         {
@@ -535,7 +552,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-icon-name"
         },
         {
@@ -552,7 +569,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-modifydate"
         },
         {
@@ -573,7 +590,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-open"
         },
         {
@@ -590,7 +607,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-position-horizontal"
         },
         {
@@ -607,7 +624,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-position-vertical"
         },
         {
@@ -624,7 +641,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-text-align"
         },
         {
@@ -641,7 +658,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-text-color"
         },
         {
@@ -658,7 +675,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-title"
         },
         {
@@ -672,7 +689,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-type"
         },
         {
@@ -686,7 +703,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.annotation-width"
         },
         {
@@ -702,7 +719,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.append-non-end-of-line-characters"
         } ],
       "name": "-ah-append-non-end-of-line-characters",
@@ -710,7 +727,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.append-non-starter-characters"
         } ],
       "name": "-ah-append-non-starter-characters",
@@ -718,7 +735,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.assumed-page-number"
         } ],
       "name": "-ah-assumed-page-number",
@@ -726,19 +743,19 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.auto-letter-spacing"
         } ],
       "name": "-ah-auto-letter-spacing",
       "description": {
-        "value": "Changes depending on the number of characters.\n\n[ none | &lt;length> | &lt;percentage> ]*",
+        "value": "Changes letter-spacing depending on the number of characters.\n\n[ none | &lt;length> | &lt;percentage> ]*",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.avoid-widow-words"
         },
         {
@@ -759,7 +776,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.avoid-widow-words-cjk-punctuation"
         },
         {
@@ -776,7 +793,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background"
         },
         {
@@ -790,7 +807,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background"
         },
         {
@@ -804,7 +821,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-attachment"
         },
         {
@@ -818,7 +835,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-attachment"
         },
         {
@@ -832,7 +849,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-clip"
         },
         {
@@ -850,7 +867,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-clip"
         },
         {
@@ -867,7 +884,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-content-type"
         } ],
       "name": "-ah-background-content-type",
@@ -879,7 +896,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-image"
         },
         {
@@ -903,7 +920,7 @@
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/graphics\/background-image-svg-1.pdf"
         },
         {
-          "name": "Gradient (FO)",
+          "name": "Gradients (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/graphics\/background-image-gradient-1.pdf"
         },
         {
@@ -937,7 +954,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-image"
         },
         {
@@ -961,7 +978,7 @@
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/graphics\/background-image-svg-1.pdf"
         },
         {
-          "name": "Gradient (FO)",
+          "name": "Gradients (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/graphics\/background-image-gradient-1.pdf"
         },
         {
@@ -995,7 +1012,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-image-resolution"
         },
         {
@@ -1012,7 +1029,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-origin"
         },
         {
@@ -1038,7 +1055,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-origin"
         },
         {
@@ -1064,7 +1081,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-position"
         },
         {
@@ -1090,7 +1107,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-position"
         },
         {
@@ -1116,7 +1133,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-repeat"
         },
         {
@@ -1149,7 +1166,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-repeat"
         },
         {
@@ -1182,7 +1199,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-size"
         },
         {
@@ -1203,7 +1220,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.background-size"
         },
         {
@@ -1223,7 +1240,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.balanced-text-align"
         } ],
       "name": "-ah-balanced-text-align",
@@ -1234,7 +1251,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.base-uri"
         } ],
       "name": "-ah-base-uri",
@@ -1246,7 +1263,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.baseline-block-snap"
         },
         {
@@ -1271,7 +1288,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.baseline-grid"
         },
         {
@@ -1296,7 +1313,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.baseline-shift"
         },
         {
@@ -1314,7 +1331,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.baseline-shift"
         },
         {
@@ -1332,7 +1349,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1353,7 +1370,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1374,7 +1391,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1391,7 +1408,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1408,7 +1425,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1425,7 +1442,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bleed"
         },
         {
@@ -1442,7 +1459,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.logical-height"
         },
         {
@@ -1459,7 +1476,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-label"
         },
         {
@@ -1473,7 +1490,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-label"
         },
         {
@@ -1487,7 +1504,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-level"
         },
         {
@@ -1501,7 +1518,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-level"
         },
         {
@@ -1515,7 +1532,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-state"
         },
         {
@@ -1529,7 +1546,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.bookmark-state"
         },
         {
@@ -1543,7 +1560,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after"
         },
         {
@@ -1568,7 +1585,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after-color"
         },
         {
@@ -1593,7 +1610,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after-style"
         },
         {
@@ -1618,7 +1635,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after-width"
         },
         {
@@ -1643,7 +1660,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before"
         },
         {
@@ -1668,7 +1685,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before-color"
         },
         {
@@ -1693,7 +1710,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before-style"
         },
         {
@@ -1718,7 +1735,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before-width"
         },
         {
@@ -1743,7 +1760,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -1772,7 +1789,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -1801,7 +1818,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -1830,7 +1847,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -1859,7 +1876,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-double-thickness"
         },
         {
@@ -1881,14 +1898,14 @@
       ],
       "name": "-ah-border-double-thickness",
       "description": {
-        "value": "Specifies the line thickness of .\n\n&lt;value> [ &lt;value> [ &lt;value> ]]",
+        "value": "Specifies the line thickness of border-style=\"double\".\n\n&lt;value>{1,3}",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end"
         },
         {
@@ -1913,7 +1930,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end-color"
         },
         {
@@ -1935,7 +1952,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end-style"
         },
         {
@@ -1960,7 +1977,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end-width"
         },
         {
@@ -1985,7 +2002,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-length"
         },
         {
@@ -2011,7 +2028,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-length"
         },
         {
@@ -2037,7 +2054,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2070,7 +2087,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2103,7 +2120,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start"
         },
         {
@@ -2128,7 +2145,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start-color"
         },
         {
@@ -2153,7 +2170,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start-style"
         },
         {
@@ -2178,7 +2195,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start-width"
         },
         {
@@ -2203,7 +2220,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2232,7 +2249,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2261,7 +2278,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2290,7 +2307,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-radius"
         },
         {
@@ -2319,8 +2336,12 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-wave-form"
+        },
+        {
+          "name": "Double-wave border form (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-border-wave-form-2.pdf"
         },
         {
           "name": "Generating wavy borders (FO)",
@@ -2340,11 +2361,14 @@
         }
       ],
       "name": "-ah-border-wave-form",
-      "description": { "value": "Specifies the wave form of .\n\n&lt;value> [ &lt;value> ]","kind": "markdown" }
+      "description": {
+        "value": "Specifies the wave form of border-style=\"wave\", border-style=\"double-wave\".\n\n&lt;value>{1,3}",
+        "kind": "markdown"
+      }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-decoration-break"
         } ],
       "name": "box-decoration-break",
@@ -2352,7 +2376,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-decoration-break"
         } ],
       "name": "-ah-box-decoration-break",
@@ -2361,7 +2385,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-shadow"
         },
         {
@@ -2382,7 +2406,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-shadow"
         },
         {
@@ -2403,7 +2427,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-sizing"
         },
         {
@@ -2417,7 +2441,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.box-sizing"
         },
         {
@@ -2431,74 +2455,111 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-after"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-after"
+        },
+        {
+          "name": "Page breaks at even or odd pages from the top of the document (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/axf-break-page-1.pdf"
+        },
+        {
+          "name": "Reduce unnecessary forced breaks (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-break-distance-1.pdf"
         }
       ],
       "name": "break-after",
-      "description": {
-        "value": "auto | always | page | column | avoid | avoid-page | avoid-column | left | right",
-        "kind": "markdown"
-      }
+      "description": { "value": "","kind": "markdown" }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-after"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-after"
+        },
+        {
+          "name": "Page breaks at even or odd pages from the top of the document (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/axf-break-page-1.pdf"
+        },
+        {
+          "name": "Reduce unnecessary forced breaks (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-break-distance-1.pdf"
         }
       ],
       "name": "-ah-break-after",
-      "description": {
-        "value": "auto | always | page | column | avoid | avoid-page | avoid-column | left | right",
-        "kind": "markdown"
-      }
+      "description": { "value": "","kind": "markdown" }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-before"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-before"
+        },
+        {
+          "name": "Page breaks at even or odd pages from the top of the document (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/axf-break-page-1.pdf"
+        },
+        {
+          "name": "Reduce unnecessary forced breaks (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-break-distance-1.pdf"
         }
       ],
       "name": "break-before",
-      "description": {
-        "value": "auto | always | page | column | avoid | avoid-page | avoid-column | left | right",
-        "kind": "markdown"
-      }
+      "description": { "value": "","kind": "markdown" }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-before"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-before"
+        },
+        {
+          "name": "Page breaks at even or odd pages from the top of the document (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/axf-break-page-1.pdf"
+        },
+        {
+          "name": "Reduce unnecessary forced breaks (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-break-distance-1.pdf"
         }
       ],
       "name": "-ah-break-before",
+      "description": { "value": "","kind": "markdown" }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-distance"
+        },
+        {
+          "name": "Reduce unnecessary forced breaks (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-break-distance-1.pdf"
+        }
+      ],
+      "name": "-ah-break-distance",
       "description": {
-        "value": "auto | always | page | column | avoid | avoid-page | avoid-column | left | right",
+        "value": "Specifies effective heights for break-after and break-before.\n\nalways | &lt;length> | &lt;percentage>",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-class"
         } ],
       "name": "change-bar-class",
@@ -2506,7 +2567,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-class"
         } ],
       "name": "-ah-change-bar-class",
@@ -2514,7 +2575,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-color"
         } ],
       "name": "change-bar-color",
@@ -2522,7 +2583,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-color"
         } ],
       "name": "-ah-change-bar-color",
@@ -2530,7 +2591,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-offset"
         } ],
       "name": "change-bar-offset",
@@ -2538,7 +2599,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-offset"
         } ],
       "name": "-ah-change-bar-offset",
@@ -2546,7 +2607,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-side"
         } ],
       "name": "change-bar-side",
@@ -2557,7 +2618,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-side"
         } ],
       "name": "-ah-change-bar-side",
@@ -2568,7 +2629,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-style"
         } ],
       "name": "change-bar-style",
@@ -2576,7 +2637,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-style"
         } ],
       "name": "-ah-change-bar-style",
@@ -2584,7 +2645,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-width"
         } ],
       "name": "change-bar-width",
@@ -2592,7 +2653,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-width"
         } ],
       "name": "-ah-change-bar-width",
@@ -2601,7 +2662,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-count"
         },
         {
@@ -2619,7 +2680,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-count"
         },
         {
@@ -2635,10 +2696,16 @@
       "description": { "value": "&lt;number> (XSL) \/ &lt;number> | auto (CSS)","kind": "markdown" }
     },
     {
-      "references": [ {
-          "name": "AH Formatter manual",
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-fill"
-        } ],
+        },
+        {
+          "name": "Filling columns (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-column-fill-1.pdf"
+        }
+      ],
       "name": "column-fill",
       "description": {
         "value": "Specifies whether to balance the column height.\n\nauto | balance | balance-all",
@@ -2646,10 +2713,16 @@
       }
     },
     {
-      "references": [ {
-          "name": "AH Formatter manual",
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-fill"
-        } ],
+        },
+        {
+          "name": "Filling columns (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-column-fill-1.pdf"
+        }
+      ],
       "name": "-ah-column-fill",
       "description": {
         "value": "Specifies whether to balance the column height.\n\nauto | balance | balance-all",
@@ -2659,7 +2732,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-gap"
         },
         {
@@ -2676,7 +2749,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-gap"
         },
         {
@@ -2693,7 +2766,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule"
         },
         {
@@ -2718,7 +2791,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule"
         },
         {
@@ -2743,7 +2816,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-align"
         },
         {
@@ -2760,7 +2833,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-color"
         },
         {
@@ -2774,7 +2847,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-color"
         },
         {
@@ -2788,7 +2861,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-display"
         },
         {
@@ -2805,7 +2878,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-length"
         },
         {
@@ -2822,7 +2895,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-style"
         },
         {
@@ -2839,7 +2912,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-style"
         },
         {
@@ -2856,7 +2929,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-width"
         },
         {
@@ -2873,7 +2946,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-rule-width"
         },
         {
@@ -2890,12 +2963,16 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-width"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=MultiColumnWidth"
+        },
+        {
+          "name": "Column width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/table\/table-width-1.pdf"
         }
       ],
       "name": "column-width",
@@ -2904,12 +2981,16 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-width"
         },
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=MultiColumnWidth"
+        },
+        {
+          "name": "Column width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/table\/table-width-1.pdf"
         }
       ],
       "name": "-ah-column-width",
@@ -2918,7 +2999,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.columns"
         },
         {
@@ -2932,7 +3013,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.columns"
         },
         {
@@ -2946,7 +3027,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.condensed-text-align-last"
         },
         {
@@ -2956,7 +3037,7 @@
       ],
       "name": "-ah-condensed-text-align-last",
       "description": {
-        "value": "Specifies whether to set automatically after condensing the overflow.\n\nfalse | true | justify | auto",
+        "value": "Specifies whether to set text-align-last=\"justify\" automatically after condensing the overflow.\n\nfalse | true | justify | auto",
         "kind": "markdown"
       }
     },
@@ -2996,6 +3077,22 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.counter-set"
+        } ],
+      "name": "counter-set",
+      "description": { "value": "[ &lt;custom-ident> &lt;integer>? ]+ | none","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.counter-set"
+        } ],
+      "name": "-ah-counter-set",
+      "description": { "value": "[ &lt;custom-ident> &lt;integer>? ]+ | none","kind": "markdown" }
+    },
+    {
       "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#country" } ],
       "name": "-ah-country",
       "description": { "value": "none | <country>","kind": "markdown" }
@@ -3003,7 +3100,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-area-visibility"
         },
         {
@@ -3020,7 +3117,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-offset"
         },
         {
@@ -3040,7 +3137,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-offset"
         } ],
       "name": "-ah-crop-offset-bottom",
@@ -3051,7 +3148,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-offset"
         } ],
       "name": "-ah-crop-offset-left",
@@ -3062,7 +3159,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-offset"
         } ],
       "name": "-ah-crop-offset-right",
@@ -3073,7 +3170,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.crop-offset"
         } ],
       "name": "-ah-crop-offset-top",
@@ -3085,7 +3182,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.destination-type"
         },
         {
@@ -3101,7 +3198,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-color"
         } ],
       "name": "-ah-diagonal-border-color",
@@ -3109,7 +3206,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-style"
         } ],
       "name": "-ah-diagonal-border-style",
@@ -3120,7 +3217,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-width"
         } ],
       "name": "-ah-diagonal-border-width",
@@ -3132,7 +3229,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.display"
         },
         {
@@ -3149,7 +3246,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.display"
         },
         {
@@ -3166,7 +3263,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.display-align"
         },
         {
@@ -3188,7 +3285,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.display-alttext"
         },
         {
@@ -3204,7 +3301,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.dominant-baseline"
         } ],
       "name": "dominant-baseline",
@@ -3215,7 +3312,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.dominant-baseline"
         } ],
       "name": "-ah-dominant-baseline",
@@ -3226,7 +3323,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.except-non-end-of-line-characters"
         } ],
       "name": "-ah-except-non-end-of-line-characters",
@@ -3234,7 +3331,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.except-non-starter-characters"
         } ],
       "name": "-ah-except-non-starter-characters",
@@ -3243,7 +3340,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.expansion-text"
         },
         {
@@ -3260,7 +3357,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.fallback"
         },
         {
@@ -3274,7 +3371,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.fallback"
         },
         {
@@ -3287,7 +3384,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-face"
         } ],
       "name": "-ah-field-button-face",
@@ -3298,7 +3395,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-face-down"
         } ],
       "name": "-ah-field-button-face-down",
@@ -3309,7 +3406,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-face-rollover"
         } ],
       "name": "-ah-field-button-face-rollover",
@@ -3320,7 +3417,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-icon"
         } ],
       "name": "-ah-field-button-icon",
@@ -3331,7 +3428,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-icon-down"
         } ],
       "name": "-ah-field-button-icon-down",
@@ -3342,7 +3439,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-icon-rollover"
         } ],
       "name": "-ah-field-button-icon-rollover",
@@ -3353,7 +3450,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-button-layout"
         } ],
       "name": "-ah-field-button-layout",
@@ -3364,7 +3461,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-checked"
         } ],
       "name": "-ah-field-checked",
@@ -3375,7 +3472,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-checked-style"
         } ],
       "name": "-ah-field-checked-style",
@@ -3386,7 +3483,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-default-text"
         } ],
       "name": "-ah-field-default-text",
@@ -3397,7 +3494,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-description"
         } ],
       "name": "-ah-field-description",
@@ -3408,7 +3505,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-editable"
         } ],
       "name": "-ah-field-editable",
@@ -3419,7 +3516,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-flags"
         } ],
       "name": "-ah-field-flags",
@@ -3427,7 +3524,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-font-size"
         } ],
       "name": "-ah-field-font-size",
@@ -3438,7 +3535,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-format"
         } ],
       "name": "-ah-field-format",
@@ -3449,7 +3546,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-format-category"
         } ],
       "name": "-ah-field-format-category",
@@ -3460,7 +3557,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-lock-document"
         } ],
       "name": "-ah-field-lock-document",
@@ -3471,7 +3568,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-maxlen"
         } ],
       "name": "-ah-field-maxlen",
@@ -3482,7 +3579,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-multiline"
         } ],
       "name": "-ah-field-multiline",
@@ -3493,7 +3590,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-multiple"
         } ],
       "name": "-ah-field-multiple",
@@ -3504,7 +3601,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-name"
         } ],
       "name": "-ah-field-name",
@@ -3512,7 +3609,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-password"
         } ],
       "name": "-ah-field-password",
@@ -3523,7 +3620,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-readonly"
         } ],
       "name": "-ah-field-readonly",
@@ -3534,7 +3631,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-required"
         } ],
       "name": "-ah-field-required",
@@ -3545,7 +3642,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-scroll"
         } ],
       "name": "-ah-field-scroll",
@@ -3556,7 +3653,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-selected"
         } ],
       "name": "-ah-field-selected",
@@ -3567,7 +3664,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-submit-coordinates"
         } ],
       "name": "-ah-field-submit-coordinates",
@@ -3578,7 +3675,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-submit-method"
         } ],
       "name": "-ah-field-submit-method",
@@ -3589,7 +3686,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-text-align"
         } ],
       "name": "-ah-field-text-align",
@@ -3600,7 +3697,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-top-index"
         } ],
       "name": "-ah-field-top-index",
@@ -3611,7 +3708,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-type"
         } ],
       "name": "-ah-field-type",
@@ -3622,7 +3719,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.field-value"
         } ],
       "name": "-ah-field-value",
@@ -3634,7 +3731,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float"
         },
         {
@@ -3651,7 +3748,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float"
         },
         {
@@ -3667,7 +3764,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-centering-x"
         } ],
       "name": "-ah-float-centering-x",
@@ -3678,18 +3775,18 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-centering-y"
         } ],
       "name": "-ah-float-centering-y",
       "description": {
-        "value": "Specifies whether the float is centered when the extent for the text placed before and after the float is insufficient.",
+        "value": "Specifies whether the float is centered when the extent for the text aligned before and after the float is insufficient.",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-float-margin-x"
         } ],
       "name": "-ah-float-float-margin-x",
@@ -3700,7 +3797,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-float-margin-y"
         } ],
       "name": "-ah-float-float-margin-y",
@@ -3711,7 +3808,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-margin-x"
         } ],
       "name": "-ah-float-margin-x",
@@ -3722,7 +3819,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-margin-y"
         } ],
       "name": "-ah-float-margin-y",
@@ -3733,7 +3830,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-min-wrap-x"
         } ],
       "name": "-ah-float-min-wrap-x",
@@ -3744,19 +3841,19 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-min-wrap-y"
         } ],
       "name": "-ah-float-min-wrap-y",
       "description": {
-        "value": "Specifies the minimum extent for the text placed before and after the float.",
+        "value": "Specifies the minimum extent for the text aligned before and after the float.",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-move"
         },
         {
@@ -3772,30 +3869,30 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-offset-x"
         } ],
       "name": "-ah-float-offset-x",
       "description": {
-        "value": "Specifies the offset placement for the float (in x-axis).",
+        "value": "Specifies the offset alignment for the float (in x-axis).",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-offset-y"
         } ],
       "name": "-ah-float-offset-y",
       "description": {
-        "value": "Specifies the offset placement for the float (in y-axis).",
+        "value": "Specifies the offset alignment for the float (in y-axis).",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-reference"
         },
         {
@@ -3812,11 +3909,11 @@
         }
       ],
       "name": "-ah-float-reference",
-      "description": { "value": "Specifies reference area where the float is placed.","kind": "markdown" }
+      "description": { "value": "Specifies reference area where the float is aligned.","kind": "markdown" }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-wrap"
         } ],
       "name": "-ah-float-wrap",
@@ -3825,7 +3922,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-x"
         },
         {
@@ -3858,7 +3955,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-float.html#axf.float-y"
         },
         {
@@ -3872,6 +3969,10 @@
         {
           "name": "Page floats (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/float\/axf-float-page-1.pdf"
+        },
+        {
+          "name": "Positioning a float to the anchor point (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/float\/axf-float-y-anchor-1.pdf"
         }
       ],
       "name": "-ah-float-y",
@@ -3883,7 +3984,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.flush-zone"
         },
         {
@@ -3903,7 +4004,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-feature-settings"
         } ],
       "name": "font-feature-settings",
@@ -3914,7 +4015,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-feature-settings"
         } ],
       "name": "-ah-font-feature-settings",
@@ -3925,7 +4026,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-size-adjust"
         } ],
       "name": "font-size-adjust",
@@ -3933,7 +4034,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-size-adjust"
         } ],
       "name": "-ah-font-size-adjust",
@@ -3942,7 +4043,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-stretch"
         },
         {
@@ -3959,7 +4060,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-stretch"
         },
         {
@@ -3976,7 +4077,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-variant"
         },
         {
@@ -3997,7 +4098,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-variant"
         },
         {
@@ -4017,7 +4118,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.footnote-keep"
         } ],
       "name": "-ah-footnote-keep",
@@ -4029,7 +4130,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.footnote-max-height"
         },
         {
@@ -4046,7 +4147,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.footnote-stacking"
         },
         {
@@ -4063,7 +4164,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hanging-punctuation"
         },
         {
@@ -4088,7 +4189,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hanging-punctuation"
         },
         {
@@ -4113,7 +4214,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate"
         },
         {
@@ -4135,7 +4236,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate"
         },
         {
@@ -4157,7 +4258,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-caps-word"
         },
         {
@@ -4174,7 +4275,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-hyphenated-word"
         },
         {
@@ -4190,7 +4291,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-character"
         } ],
       "name": "hyphenate-character",
@@ -4198,7 +4299,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-character"
         } ],
       "name": "-ah-hyphenate-character",
@@ -4212,7 +4313,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-lines"
         },
         {
@@ -4226,7 +4327,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenate-lines"
         },
         {
@@ -4240,7 +4341,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-minimum-character-count"
         },
         {
@@ -4257,7 +4358,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-push-character-count"
         },
         {
@@ -4271,7 +4372,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-push-character-count"
         },
         {
@@ -4285,7 +4386,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-remain-character-count"
         },
         {
@@ -4299,7 +4400,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-remain-character-count"
         },
         {
@@ -4313,7 +4414,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.hyphenation-zone"
         },
         {
@@ -4329,7 +4430,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.ignore-leading-newline"
         } ],
       "name": "-ah-ignore-leading-newline",
@@ -4340,7 +4441,18 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-orientation"
+        } ],
+      "name": "-ah-image-orientation",
+      "description": {
+        "value": "Rotates the image.\n\nfrom-image | none | [ 0 | 90 | 180 | 270 ] flip?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-resolution"
         } ],
       "name": "image-resolution",
@@ -4351,7 +4463,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-resolution"
         } ],
       "name": "-ah-image-resolution",
@@ -4362,7 +4474,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-smoothing"
         } ],
       "name": "-ah-image-smoothing",
@@ -4373,7 +4485,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.indent-here"
         } ],
       "name": "-ah-indent-here",
@@ -4384,7 +4496,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.index-page-citation-range-f-suffix"
         } ],
       "name": "-ah-index-page-citation-range-f-suffix",
@@ -4395,7 +4507,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.index-page-citation-range-ff-suffix"
         } ],
       "name": "-ah-index-page-citation-range-ff-suffix",
@@ -4406,7 +4518,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.index-page-citation-range-separator"
         } ],
       "name": "-ah-index-page-citation-range-separator",
@@ -4418,7 +4530,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters"
         },
         {
@@ -4434,7 +4546,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-end-indent"
         } ],
       "name": "-ah-initial-letters-end-indent",
@@ -4445,7 +4557,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-first-line-head-height"
         } ],
       "name": "-ah-initial-letters-first-line-head-height",
@@ -4456,7 +4568,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation"
         } ],
       "name": "-ah-initial-letters-leading-punctuation",
@@ -4467,7 +4579,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation-position"
         } ],
       "name": "-ah-initial-letters-leading-punctuation-position",
@@ -4478,7 +4590,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation-shift"
         } ],
       "name": "-ah-initial-letters-leading-punctuation-shift",
@@ -4490,7 +4602,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.inline-overflow-align"
         },
         {
@@ -4507,7 +4619,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.logical-width"
         },
         {
@@ -4527,7 +4639,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.internal-destination"
         } ],
       "name": "-ah-internal-destination",
@@ -4539,7 +4651,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.intrude-into-punctuation"
         },
         {
@@ -4560,7 +4672,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.justify-nbsp"
         } ],
       "name": "-ah-justify-nbsp",
@@ -4571,7 +4683,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.kansuji-grouping-letter"
         } ],
       "name": "-ah-kansuji-grouping-letter",
@@ -4582,7 +4694,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.kansuji-letter"
         } ],
       "name": "-ah-kansuji-letter",
@@ -4593,7 +4705,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.kansuji-style"
         } ],
       "name": "-ah-kansuji-style",
@@ -4605,7 +4717,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
         },
         {
@@ -4619,7 +4731,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
         },
         {
@@ -4638,7 +4750,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.keep-together-within-dimension"
         },
         {
@@ -4652,25 +4764,25 @@
       ],
       "name": "-ah-keep-together-within-dimension",
       "description": {
-        "value": "Specifies the upper limit height of the condition.\n\nall | &lt;length>",
+        "value": "Specifies the upper limit height of the keep-together condition.\n\nall | &lt;length>",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.keep-together-within-inline-dimension"
         } ],
       "name": "-ah-keep-together-within-inline-dimension",
       "description": {
-        "value": "Specifies the upper limit width of the condition.\n\nall | &lt;length>",
+        "value": "Specifies the upper limit width of the keep-together.within-line condition.\n\nall | &lt;length>",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.kerning-mode"
         },
         {
@@ -4694,7 +4806,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.layer"
         },
         {
@@ -4708,7 +4820,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.layer-settings"
         },
         {
@@ -4726,19 +4838,19 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.letter-spacing-side"
         } ],
       "name": "-ah-letter-spacing-side",
       "description": {
-        "value": "Specifies on which side of the character the space by is distributed.\n\nboth | start | end",
+        "value": "Specifies on which side of the character the space by letter-spacing is distributed.\n\nboth | start | end",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.ligature-mode"
         },
         {
@@ -4755,7 +4867,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-break"
         },
         {
@@ -4776,7 +4888,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-break"
         },
         {
@@ -4797,7 +4909,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark"
         },
         {
@@ -4813,7 +4925,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-background-color"
         } ],
       "name": "-ah-line-continued-mark-background-color",
@@ -4824,7 +4936,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-color"
         } ],
       "name": "-ah-line-continued-mark-color",
@@ -4835,7 +4947,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-font-family"
         } ],
       "name": "-ah-line-continued-mark-font-family",
@@ -4846,7 +4958,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-font-size"
         } ],
       "name": "-ah-line-continued-mark-font-size",
@@ -4857,7 +4969,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-font-style"
         } ],
       "name": "-ah-line-continued-mark-font-style",
@@ -4868,7 +4980,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-font-weight"
         } ],
       "name": "-ah-line-continued-mark-font-weight",
@@ -4879,7 +4991,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-continued-mark-offset"
         } ],
       "name": "-ah-line-continued-mark-offset",
@@ -4906,7 +5018,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number"
         },
         {
@@ -4934,7 +5046,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-background-color"
         } ],
       "name": "-ah-line-number-background-color",
@@ -4945,7 +5057,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-color"
         } ],
       "name": "-ah-line-number-color",
@@ -4953,7 +5065,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-display-align"
         } ],
       "name": "-ah-line-number-display-align",
@@ -4965,7 +5077,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-except-continued-line"
         },
         {
@@ -4981,7 +5093,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-font-family"
         } ],
       "name": "-ah-line-number-font-family",
@@ -4992,7 +5104,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-font-size"
         } ],
       "name": "-ah-line-number-font-size",
@@ -5003,7 +5115,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-font-style"
         } ],
       "name": "-ah-line-number-font-style",
@@ -5014,7 +5126,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-font-weight"
         } ],
       "name": "-ah-line-number-font-weight",
@@ -5025,7 +5137,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-format"
         } ],
       "name": "-ah-line-number-format",
@@ -5033,7 +5145,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-initial"
         } ],
       "name": "-ah-line-number-initial",
@@ -5044,7 +5156,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-interval"
         } ],
       "name": "-ah-line-number-interval",
@@ -5055,7 +5167,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-offset"
         } ],
       "name": "-ah-line-number-offset",
@@ -5064,7 +5176,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-orientation"
         },
         {
@@ -5080,7 +5192,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-position"
         } ],
       "name": "-ah-line-number-position",
@@ -5091,7 +5203,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-prefix"
         } ],
       "name": "-ah-line-number-prefix",
@@ -5099,7 +5211,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-reset"
         } ],
       "name": "-ah-line-number-reset",
@@ -5111,7 +5223,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-show"
         },
         {
@@ -5127,7 +5239,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-start"
         } ],
       "name": "-ah-line-number-start",
@@ -5135,7 +5247,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-text-align"
         } ],
       "name": "-ah-line-number-text-align",
@@ -5146,7 +5258,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-text-decoration"
         } ],
       "name": "-ah-line-number-text-decoration",
@@ -5157,7 +5269,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.line-number-width"
         } ],
       "name": "-ah-line-number-width",
@@ -5197,7 +5309,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.link"
         } ],
       "name": "-ah-link",
@@ -5206,7 +5318,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.list-style-type"
         },
         {
@@ -5223,7 +5335,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.list-style-type"
         },
         {
@@ -5240,7 +5352,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.margin-break"
         },
         {
@@ -5256,7 +5368,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.max-logical-height"
         } ],
       "name": "-ah-max-logical-height",
@@ -5267,7 +5379,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.max-logical-width"
         } ],
       "name": "-ah-max-logical-width",
@@ -5278,7 +5390,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-activation"
         } ],
       "name": "-ah-media-activation",
@@ -5289,7 +5401,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-duration"
         } ],
       "name": "-ah-media-duration",
@@ -5300,7 +5412,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-extraction-policy"
         } ],
       "name": "-ah-media-extraction-policy",
@@ -5311,7 +5423,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-flash-context-menu"
         } ],
       "name": "-ah-media-flash-context-menu",
@@ -5322,7 +5434,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-flash-vars"
         } ],
       "name": "-ah-media-flash-vars",
@@ -5333,7 +5445,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-play-mode"
         } ],
       "name": "-ah-media-play-mode",
@@ -5344,7 +5456,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-skin-auto-hide"
         } ],
       "name": "-ah-media-skin-auto-hide",
@@ -5355,7 +5467,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-skin-color"
         } ],
       "name": "-ah-media-skin-color",
@@ -5366,7 +5478,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-skin-control"
         } ],
       "name": "-ah-media-skin-control",
@@ -5377,7 +5489,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-transparent-background"
         } ],
       "name": "-ah-media-transparent-background",
@@ -5388,7 +5500,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-volume"
         } ],
       "name": "-ah-media-volume",
@@ -5399,7 +5511,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-window-height"
         } ],
       "name": "-ah-media-window-height",
@@ -5410,7 +5522,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.media-window-width"
         } ],
       "name": "-ah-media-window-width",
@@ -5421,7 +5533,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.merge-sequential-page-numbers"
         } ],
       "name": "-ah-merge-sequential-page-numbers",
@@ -5432,7 +5544,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.min-logical-height"
         } ],
       "name": "-ah-min-logical-height",
@@ -5443,7 +5555,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.min-logical-width"
         } ],
       "name": "-ah-min-logical-width",
@@ -5455,7 +5567,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.multimedia-treatment"
         },
         {
@@ -5476,7 +5588,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.negative"
         },
         {
@@ -5490,7 +5602,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.negative"
         },
         {
@@ -5503,7 +5615,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.normalize"
         } ],
       "name": "-ah-normalize",
@@ -5514,7 +5626,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.normalize-exclude"
         } ],
       "name": "-ah-normalize-exclude",
@@ -5526,7 +5638,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-column-span"
         },
         {
@@ -5540,7 +5652,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-column-span"
         },
         {
@@ -5554,7 +5666,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-row-span"
         },
         {
@@ -5568,7 +5680,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-row-span"
         },
         {
@@ -5581,7 +5693,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.number-transform"
         } ],
       "name": "-ah-number-transform",
@@ -5592,7 +5704,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.object-fit"
         } ],
       "name": "object-fit",
@@ -5600,7 +5712,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.object-fit"
         } ],
       "name": "-ah-object-fit",
@@ -5608,7 +5720,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.object-position"
         } ],
       "name": "object-position",
@@ -5619,7 +5731,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.object-position"
         } ],
       "name": "-ah-object-position",
@@ -5631,7 +5743,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-color"
         },
         {
@@ -5647,7 +5759,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-expand"
         } ],
       "name": "-ah-outline-expand",
@@ -5658,7 +5770,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-external-destination"
         } ],
       "name": "-ah-outline-external-destination",
@@ -5670,7 +5782,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-font-style"
         },
         {
@@ -5687,7 +5799,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-font-weight"
         },
         {
@@ -5703,7 +5815,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-group"
         } ],
       "name": "-ah-outline-group",
@@ -5714,7 +5826,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-internal-destination"
         } ],
       "name": "-ah-outline-internal-destination",
@@ -5725,7 +5837,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-level"
         } ],
       "name": "-ah-outline-level",
@@ -5736,7 +5848,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.outline-title"
         } ],
       "name": "-ah-outline-title",
@@ -5747,7 +5859,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-align"
         } ],
       "name": "-ah-overflow-align",
@@ -5759,7 +5871,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-condense"
         },
         {
@@ -5784,7 +5896,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-condense-limit-font-size"
         },
         {
@@ -5801,7 +5913,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-condense-limit-font-stretch"
         },
         {
@@ -5818,7 +5930,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-condense-limit-letter-spacing"
         },
         {
@@ -5835,7 +5947,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-condense-limit-line-height"
         },
         {
@@ -5851,7 +5963,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-limit"
         } ],
       "name": "-ah-overflow-limit",
@@ -5859,7 +5971,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-limit-block"
         } ],
       "name": "-ah-overflow-limit-block",
@@ -5867,7 +5979,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-limit-inline"
         } ],
       "name": "-ah-overflow-limit-inline",
@@ -5876,7 +5988,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overflow-replace"
         },
         {
@@ -5893,7 +6005,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.overprint"
         },
         {
@@ -5907,7 +6019,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.pad"
         },
         {
@@ -5921,7 +6033,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.pad"
         },
         {
@@ -5955,7 +6067,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.page"
         },
         {
@@ -5969,7 +6081,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.page"
         },
         {
@@ -5983,7 +6095,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.pdftag"
         },
         {
@@ -5996,7 +6108,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.poster-content-type"
         } ],
       "name": "-ah-poster-content-type",
@@ -6007,7 +6119,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.poster-image"
         } ],
       "name": "-ah-poster-image",
@@ -6019,7 +6131,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.prefix"
         },
         {
@@ -6033,7 +6145,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.prefix"
         },
         {
@@ -6046,7 +6158,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-bin-selection"
         } ],
       "name": "-ah-printer-bin-selection",
@@ -6054,7 +6166,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-duplex"
         } ],
       "name": "-ah-printer-duplex",
@@ -6063,7 +6175,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks"
         },
         {
@@ -6088,7 +6200,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks"
         },
         {
@@ -6113,7 +6225,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks"
         },
         {
@@ -6138,7 +6250,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-line-color"
         },
         {
@@ -6155,7 +6267,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-line-length"
         },
         {
@@ -6172,7 +6284,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-line-width"
         },
         {
@@ -6188,7 +6300,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-spine-width"
         } ],
       "name": "-ah-printer-marks-spine-width",
@@ -6199,7 +6311,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-zero-margin"
         } ],
       "name": "-ah-printer-marks-zero-margin",
@@ -6211,7 +6323,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.punctuation-spacing"
         },
         {
@@ -6228,7 +6340,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.punctuation-trim"
         },
         {
@@ -6242,14 +6354,14 @@
       ],
       "name": "punctuation-trim",
       "description": {
-        "value": "The axf:punctuation-trim specifies whether to treat full width punctuation marks as half width in Japanese.\n\nnone | auto | all | [ [ start | start-except-first ] || [ end | allow-end | end-except-fullstop ] || adjacent ] | &lt;string>",
+        "value": "The axf:punctuation-trim specifies whether to treat full width punctuation marks as half width in Japanese.\n\n[ none | auto | all | [ [ start | start-except-first ] || [ end | allow-end | end-except-fullstop ] || adjacent ] ] || &lt;string>",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.punctuation-trim"
         },
         {
@@ -6263,14 +6375,14 @@
       ],
       "name": "-ah-punctuation-trim",
       "description": {
-        "value": "The axf:punctuation-trim specifies whether to treat full width punctuation marks as half width in Japanese.\n\nnone | auto | all | [ [ start | start-except-first ] || [ end | allow-end | end-except-fullstop ] || adjacent ] | &lt;string>",
+        "value": "The axf:punctuation-trim specifies whether to treat full width punctuation marks as half width in Japanese.\n\n[ none | auto | all | [ [ start | start-except-first ] || [ end | allow-end | end-except-fullstop ] || adjacent ] ] || &lt;string>",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.quotetype"
         },
         {
@@ -6284,7 +6396,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.range"
         },
         {
@@ -6301,7 +6413,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.range"
         },
         {
@@ -6333,7 +6445,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.repeat-cell-content-at-break"
         },
         {
@@ -6349,7 +6461,18 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.require"
+        } ],
+      "name": "-ah-require",
+      "description": {
+        "value": "Specifies the version of required for formatting.\n\n&lt;string>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-color"
         } ],
       "name": "-ah-reverse-diagonal-border-color",
@@ -6360,7 +6483,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-style"
         } ],
       "name": "-ah-reverse-diagonal-border-style",
@@ -6371,7 +6494,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-width"
         } ],
       "name": "-ah-reverse-diagonal-border-width",
@@ -6383,7 +6506,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-page"
         },
         {
@@ -6396,7 +6519,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.revision-bar-color"
         } ],
       "name": "-ah-revision-bar-color",
@@ -6404,7 +6527,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.revision-bar-offset"
         } ],
       "name": "-ah-revision-bar-offset",
@@ -6412,7 +6535,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.revision-bar-position"
         } ],
       "name": "-ah-revision-bar-position",
@@ -6423,7 +6546,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.revision-bar-style"
         } ],
       "name": "-ah-revision-bar-style",
@@ -6434,7 +6557,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.revision-bar-width"
         } ],
       "name": "-ah-revision-bar-width",
@@ -6446,7 +6569,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-align"
         },
         {
@@ -6463,7 +6586,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-align"
         },
         {
@@ -6479,7 +6602,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-color"
         } ],
       "name": "-ah-ruby-color",
@@ -6488,7 +6611,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-condense"
         },
         {
@@ -6504,7 +6627,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-family"
         } ],
       "name": "-ah-ruby-font-family",
@@ -6515,7 +6638,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-size"
         } ],
       "name": "-ah-ruby-font-size",
@@ -6526,7 +6649,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-stretch"
         } ],
       "name": "-ah-ruby-font-stretch",
@@ -6537,7 +6660,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-style"
         } ],
       "name": "-ah-ruby-font-style",
@@ -6545,7 +6668,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-weight"
         } ],
       "name": "-ah-ruby-font-weight",
@@ -6557,7 +6680,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-limit-overhang"
         },
         {
@@ -6574,7 +6697,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-limit-space"
         },
         {
@@ -6590,7 +6713,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-minimum-font-size"
         } ],
       "name": "-ah-ruby-minimum-font-size",
@@ -6601,7 +6724,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-offset"
         } ],
       "name": "-ah-ruby-offset",
@@ -6613,7 +6736,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-overhang"
         },
         {
@@ -6630,7 +6753,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-overhang"
         },
         {
@@ -6646,7 +6769,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-position"
         } ],
       "name": "ruby-position",
@@ -6657,7 +6780,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-position"
         } ],
       "name": "-ah-ruby-position",
@@ -6668,7 +6791,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-small-kana"
         } ],
       "name": "-ah-ruby-small-kana",
@@ -6694,7 +6817,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.show-controls"
         } ],
       "name": "-ah-show-controls",
@@ -6706,7 +6829,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.size"
         },
         {
@@ -6723,7 +6846,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.size"
         },
         {
@@ -6739,7 +6862,23 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        } ],
+      "name": "size-adjust",
+      "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        } ],
+      "name": "-ah-size-adjust",
+      "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.soft-hyphen-treatment"
         } ],
       "name": "-ah-soft-hyphen-treatment",
@@ -6748,7 +6887,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.margin-after"
         },
         {
@@ -6769,7 +6908,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.margin-before"
         },
         {
@@ -6790,7 +6929,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.margin-end"
         },
         {
@@ -6807,7 +6946,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.margin-start"
         },
         {
@@ -6824,7 +6963,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-span"
         },
         {
@@ -6838,7 +6977,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.column-span"
         },
         {
@@ -6852,7 +6991,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.string-set"
         },
         {
@@ -6866,7 +7005,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.string-set"
         },
         {
@@ -6880,7 +7019,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.suffix"
         },
         {
@@ -6894,7 +7033,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.suffix"
         },
         {
@@ -6908,7 +7047,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.suppress-duplicate-footnote"
         },
         {
@@ -6924,7 +7063,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.suppress-duplicate-page-number"
         } ],
       "name": "-ah-suppress-duplicate-page-number",
@@ -6935,7 +7074,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.suppress-if-first-on-page"
         } ],
       "name": "-ah-suppress-if-first-on-page",
@@ -6947,7 +7086,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.symbols"
         },
         {
@@ -6961,7 +7100,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.symbols"
         },
         {
@@ -6975,7 +7114,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.system"
         },
         {
@@ -6992,7 +7131,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.system"
         },
         {
@@ -7008,7 +7147,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-auto-layout-limit"
         } ],
       "name": "-ah-table-auto-layout-limit",
@@ -7020,7 +7159,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-omit-footer-at-break"
         },
         {
@@ -7042,7 +7181,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-omit-header-at-break"
         },
         {
@@ -7064,7 +7203,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-row-orphans"
         },
         {
@@ -7081,7 +7220,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-row-widows"
         },
         {
@@ -7097,7 +7236,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.table-summary"
         } ],
       "name": "-ah-table-summary",
@@ -7106,7 +7245,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align"
         },
         {
@@ -7131,7 +7270,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align"
         },
         {
@@ -7156,7 +7295,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align-first"
         },
         {
@@ -7173,7 +7312,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align-last"
         },
         {
@@ -7190,7 +7329,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align-last"
         },
         {
@@ -7207,7 +7346,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-align-string"
         },
         {
@@ -7221,14 +7360,14 @@
       ],
       "name": "-ah-text-align-string",
       "description": {
-        "value": "Specifies the text alignment when .\n\nstart | center | end | inside | outside | left | right",
+        "value": "Specifies the text alignment when text-align=\"&lt;string>\".\n\nstart | center | end | inside | outside | left | right",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-autospace"
         },
         {
@@ -7245,7 +7384,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-autospace"
         },
         {
@@ -7262,7 +7401,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-autospace-width"
         },
         {
@@ -7272,13 +7411,13 @@
       ],
       "name": "-ah-text-autospace-width",
       "description": {
-        "value": "Specifies the width for .\n\n&lt;length> | &lt;percentage> | auto",
+        "value": "Specifies the width for axf:text-autospace.\n\n&lt;length> | &lt;percentage> | auto",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-combine"
         } ],
       "name": "text-combine",
@@ -7286,7 +7425,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-combine"
         } ],
       "name": "-ah-text-combine",
@@ -7294,30 +7433,30 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-combine-horizontal"
         } ],
       "name": "text-combine-horizontal",
       "description": {
-        "value": "Sets horizontal-in-vertical composition in vertical writing mode automatically.\n\nnone | all | [ digits &lt;integer> || alpha &lt;integer> || alphanumeric &lt;integer> ]",
+        "value": "Sets horizontal-in-vertical composition in vertical writing mode automatically.\n\nnone | all | [ digits &lt;integer> || alpha &lt;integer> || alphanumeric &lt;integer> || emoji ]",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-combine-horizontal"
         } ],
       "name": "-ah-text-combine-horizontal",
       "description": {
-        "value": "Sets horizontal-in-vertical composition in vertical writing mode automatically.\n\nnone | all | [ digits &lt;integer> || alpha &lt;integer> || alphanumeric &lt;integer> ]",
+        "value": "Sets horizontal-in-vertical composition in vertical writing mode automatically.\n\nnone | all | [ digits &lt;integer> || alpha &lt;integer> || alphanumeric &lt;integer> || emoji ]",
         "kind": "markdown"
       }
     },
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration"
         },
         {
@@ -7338,7 +7477,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration"
         },
         {
@@ -7359,7 +7498,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-color"
         },
         {
@@ -7373,7 +7512,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-color"
         },
         {
@@ -7387,7 +7526,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-line"
         },
         {
@@ -7404,7 +7543,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-line"
         },
         {
@@ -7421,7 +7560,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-style"
         },
         {
@@ -7435,7 +7574,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-decoration-style"
         },
         {
@@ -7448,7 +7587,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-color"
         } ],
       "name": "text-emphasis-color",
@@ -7456,7 +7595,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-color"
         } ],
       "name": "-ah-text-emphasis-color",
@@ -7464,7 +7603,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-font-family"
         } ],
       "name": "-ah-text-emphasis-font-family",
@@ -7475,7 +7614,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-font-size"
         } ],
       "name": "-ah-text-emphasis-font-size",
@@ -7486,7 +7625,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-font-stretch"
         } ],
       "name": "-ah-text-emphasis-font-stretch",
@@ -7497,7 +7636,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-font-style"
         } ],
       "name": "-ah-text-emphasis-font-style",
@@ -7508,7 +7647,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-font-weight"
         } ],
       "name": "-ah-text-emphasis-font-weight",
@@ -7520,7 +7659,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-offset"
         },
         {
@@ -7536,7 +7675,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-position"
         } ],
       "name": "text-emphasis-position",
@@ -7547,7 +7686,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-position"
         } ],
       "name": "-ah-text-emphasis-position",
@@ -7558,7 +7697,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-skip"
         } ],
       "name": "-ah-text-emphasis-skip",
@@ -7570,7 +7709,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-style"
         },
         {
@@ -7587,7 +7726,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-emphasis-style"
         },
         {
@@ -7604,7 +7743,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-indent-if-first-on-page"
         },
         {
@@ -7614,13 +7753,13 @@
       ],
       "name": "-ah-text-indent-if-first-on-page",
       "description": {
-        "value": "Specifies the of a block at the top of the page or the top of the column.\n\n&lt;length> | &lt;percentage> | auto",
+        "value": "Specifies the text-indent of a block at the top of the page or the top of the column.\n\n&lt;length> | &lt;percentage> | auto",
         "kind": "markdown"
       }
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-justify"
         } ],
       "name": "text-justify",
@@ -7631,7 +7770,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-justify"
         } ],
       "name": "-ah-text-justify",
@@ -7643,7 +7782,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-justify-trim"
         },
         {
@@ -7664,7 +7803,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-justify-trim"
         },
         {
@@ -7684,7 +7823,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-kashida-space"
         } ],
       "name": "-ah-text-kashida-space",
@@ -7695,7 +7834,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-line-color"
         } ],
       "name": "-ah-text-line-color",
@@ -7706,7 +7845,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-line-style"
         } ],
       "name": "-ah-text-line-style",
@@ -7718,7 +7857,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-line-width"
         },
         {
@@ -7734,7 +7873,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-orientation"
         } ],
       "name": "text-orientation",
@@ -7745,7 +7884,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-orientation"
         } ],
       "name": "-ah-text-orientation",
@@ -7757,7 +7896,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-overflow"
         },
         {
@@ -7774,7 +7913,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-overflow"
         },
         {
@@ -7791,7 +7930,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-replace"
         },
         {
@@ -7808,7 +7947,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-replace"
         },
         {
@@ -7825,7 +7964,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-shadow"
         },
         {
@@ -7842,7 +7981,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-shadow"
         },
         {
@@ -7859,7 +7998,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-stroke"
         },
         {
@@ -7875,7 +8014,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-stroke-color"
         } ],
       "name": "-ah-text-stroke-color",
@@ -7886,7 +8025,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-stroke-width"
         } ],
       "name": "-ah-text-stroke-width",
@@ -7898,7 +8037,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-transform"
         },
         {
@@ -7915,7 +8054,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-transform"
         },
         {
@@ -7931,7 +8070,18 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-treat-as"
+        } ],
+      "name": "-ah-text-treat-as",
+      "description": {
+        "value": "Specifies the character string treatable for trimming space between ideograph character and non-ideographic alphabet character and full width punctuation.\n\n&lt;string> [both | start | end]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-underline-position"
         } ],
       "name": "text-underline-position",
@@ -7942,7 +8092,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.text-underline-position"
         } ],
       "name": "-ah-text-underline-position",
@@ -7954,7 +8104,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.transform"
         },
         {
@@ -7971,7 +8121,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.transform"
         },
         {
@@ -7988,7 +8138,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.transform-origin"
         },
         {
@@ -8005,7 +8155,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.transform-origin"
         },
         {
@@ -8020,9 +8170,25 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        } ],
+      "name": "unicode-range",
+      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        } ],
+      "name": "-ah-unicode-range",
+      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+    },
+    {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.vertical-align"
         },
         {
@@ -8039,7 +8205,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.vertical-align"
         },
         {
@@ -8055,7 +8221,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.vertical-underline-side"
         } ],
       "name": "-ah-vertical-underline-side",
@@ -8063,6 +8229,17 @@
         "value": "Specifies on which side of the text to put underline in vertical writing-mode.\n\nleft | right | depend-on-language | auto",
         "kind": "markdown"
       }
+    },
+    {
+      "references": [
+        { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#white-space-collapse" },
+        {
+          "name": "White space and line breaks in program code (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/character\/white-space-1.pdf"
+        }
+      ],
+      "name": "-ah-white-space-collapse",
+      "description": { "value": "false | true","kind": "markdown" }
     },
     {
       "references": [
@@ -8080,7 +8257,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.word-break"
         } ],
       "name": "word-break",
@@ -8091,7 +8268,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.word-break"
         } ],
       "name": "-ah-word-break",
@@ -8102,7 +8279,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.word-wrap"
         } ],
       "name": "word-wrap",
@@ -8113,7 +8290,7 @@
     },
     {
       "references": [ {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.word-wrap"
         } ],
       "name": "-ah-word-wrap",
@@ -8125,7 +8302,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.writing-mode"
         },
         {
@@ -8147,7 +8324,7 @@
     {
       "references": [
         {
-          "name": "AH Formatter manual",
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.writing-mode"
         },
         {

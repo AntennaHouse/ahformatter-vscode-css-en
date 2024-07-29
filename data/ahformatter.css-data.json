@@ -71,6 +71,72 @@
       "description": { "value": "Adjusts the spacing on the last line.\n\nfalse | true","kind": "markdown" }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-content"
+        } ],
+      "name": "align-content",
+      "description": {
+        "value": "Aligns a flex container's lines within the flex container.\n\nflex-start | flex-end | center | space-between | space-around | stretch (Flexible Box) normal | &lt;baseline-position> | &lt;content-distribution> | &lt;overflow-position>? &lt;content-position> (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-content"
+        } ],
+      "name": "-ah-align-content",
+      "description": {
+        "value": "Aligns a flex container's lines within the flex container.\n\nflex-start | flex-end | center | space-between | space-around | stretch (Flexible Box) normal | &lt;baseline-position> | &lt;content-distribution> | &lt;overflow-position>? &lt;content-position> (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-items"
+        } ],
+      "name": "align-items",
+      "description": {
+        "value": "Aligns items in the cross-axis direction within the flex container all at once.\n\nflex-start | flex-end | center | baseline | stretch (Flexible Box) normal | stretch | &lt;baseline-position> | [ &lt;overflow-position>? &lt;self-position> ] (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-items"
+        } ],
+      "name": "-ah-align-items",
+      "description": {
+        "value": "Aligns items in the cross-axis direction within the flex container all at once.\n\nflex-start | flex-end | center | baseline | stretch (Flexible Box) normal | stretch | &lt;baseline-position> | [ &lt;overflow-position>? &lt;self-position> ] (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-self"
+        } ],
+      "name": "align-self",
+      "description": {
+        "value": "Specifies the alignment of flex items in the cross-axis direction all at once.\n\nauto | flex-start | flex-end | center | baseline | stretch (Flexible Box) auto | normal | stretch | &lt;baseline-position> | &lt;overflow-position>? &lt;self-position> (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.align-self"
+        } ],
+      "name": "-ah-align-self",
+      "description": {
+        "value": "Specifies the alignment of flex items in the cross-axis direction all at once.\n\nauto | flex-start | flex-end | center | baseline | stretch (Flexible Box) auto | normal | stretch | &lt;baseline-position> | &lt;overflow-position>? &lt;self-position> (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -1782,7 +1848,7 @@
       ],
       "name": "border-bottom-left-radius",
       "description": {
-        "value": "Specifies the radius of the bottom left rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the bottom left rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -1811,7 +1877,7 @@
       ],
       "name": "-ah-border-bottom-left-radius",
       "description": {
-        "value": "Specifies the radius of the bottom left rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the bottom left rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -1840,7 +1906,7 @@
       ],
       "name": "border-bottom-right-radius",
       "description": {
-        "value": "Specifies the radius of the bottom right rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the bottom right rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -1869,7 +1935,7 @@
       ],
       "name": "-ah-border-bottom-right-radius",
       "description": {
-        "value": "Specifies the radius of the bottom right rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the bottom right rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2080,7 +2146,7 @@
       ],
       "name": "border-radius",
       "description": {
-        "value": "Specifies the radii of the rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radii of the rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2113,7 +2179,7 @@
       ],
       "name": "-ah-border-radius",
       "description": {
-        "value": "Specifies the radii of the rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radii of the rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2242,7 +2308,7 @@
       ],
       "name": "border-top-left-radius",
       "description": {
-        "value": "Specifies the radius of the top left rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the top left rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2271,7 +2337,7 @@
       ],
       "name": "-ah-border-top-left-radius",
       "description": {
-        "value": "Specifies the radius of the top left rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the top left rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2300,7 +2366,7 @@
       ],
       "name": "border-top-right-radius",
       "description": {
-        "value": "Specifies the radius of the top right rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the top right rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2329,7 +2395,7 @@
       ],
       "name": "-ah-border-top-right-radius",
       "description": {
-        "value": "Specifies the radius of the top right rounded corners.\n\n[&lt;length> | &lt;percentage>] [&lt;length> | &lt;percentage>]?",
+        "value": "Specifies the radius of the top right rounded corners.\n\n[&lt;length>|&lt;percentage>] [&lt;length>|&lt;percentage>]? diagonal?",
         "kind": "markdown"
       }
     },
@@ -2558,6 +2624,34 @@
       }
     },
     {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
+        },
+        {
+          "name": "Introduction to CSS for Paged Media",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-inside"
+        }
+      ],
+      "name": "break-inside",
+      "description": { "value": "auto | avoid | avoid-page | avoid-column","kind": "markdown" }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
+        },
+        {
+          "name": "Introduction to CSS for Paged Media",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-inside"
+        }
+      ],
+      "name": "-ah-break-inside",
+      "description": { "value": "auto | avoid | avoid-page | avoid-column","kind": "markdown" }
+    },
+    {
       "references": [ {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.change-bar-class"
@@ -2672,6 +2766,10 @@
         {
           "name": "Multiple columns (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/multi-column-1.pdf"
+        },
+        {
+          "name": "Space before and after a spanning block (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/space-after-2.pdf"
         }
       ],
       "name": "column-count",
@@ -2690,6 +2788,10 @@
         {
           "name": "Multiple columns (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/structure\/multi-column-1.pdf"
+        },
+        {
+          "name": "Space before and after a spanning block (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/space-after-2.pdf"
         }
       ],
       "name": "-ah-column-count",
@@ -3186,7 +3288,7 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.destination-type"
         },
         {
-          "name": "Link settings with a destination type specified (FO)",
+          "name": "Display of a link destination (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/pdf\/axf-destination-type-1.pdf"
         }
       ],
@@ -3239,7 +3341,7 @@
       ],
       "name": "display",
       "description": {
-        "value": "inline | block | inline-block | list-item | run-in | compact | table | inline-table | table-row-group | table-header-group | table-footer-group | table-row | table-column-group | table-column | table-cell | table-caption | ruby | ruby-base | ruby-text | ruby-base-group | ruby-text-group | &lt;template> | (-ah-)bidi-override | (-ah-)meta | none",
+        "value": "inline | block | inline-block | list-item | run-in | compact | table | inline-table | table-row-group | table-header-group | table-footer-group | table-row | table-column-group | table-column | table-cell | table-caption | ruby | ruby-base | ruby-text | ruby-base-group | ruby-text-group | &lt;template> | flex V7.4 no-LT | inline-flex V7.4 no-LT | grid V7.4 no-LT | inline-grid V7.4 no-LT | (-ah-)bidi-override | (-ah-)meta | none",
         "kind": "markdown"
       }
     },
@@ -3256,7 +3358,7 @@
       ],
       "name": "-ah-display",
       "description": {
-        "value": "inline | block | inline-block | list-item | run-in | compact | table | inline-table | table-row-group | table-header-group | table-footer-group | table-row | table-column-group | table-column | table-cell | table-caption | ruby | ruby-base | ruby-text | ruby-base-group | ruby-text-group | &lt;template> | (-ah-)bidi-override | (-ah-)meta | none",
+        "value": "inline | block | inline-block | list-item | run-in | compact | table | inline-table | table-row-group | table-header-group | table-footer-group | table-row | table-column-group | table-column | table-cell | table-caption | ruby | ruby-base | ruby-text | ruby-base-group | ruby-text-group | &lt;template> | flex V7.4 no-LT | inline-flex V7.4 no-LT | grid V7.4 no-LT | inline-grid V7.4 no-LT | (-ah-)bidi-override | (-ah-)meta | none",
         "kind": "markdown"
       }
     },
@@ -3318,6 +3420,17 @@
       "name": "-ah-dominant-baseline",
       "description": {
         "value": "auto | use-script | no-change | reset-size | ideographic | alphabetic | hanging | mathematical | central | middle | text-after-edge | text-before-edge",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.double-hyphen-translineation"
+        } ],
+      "name": "-ah-double-hyphen-translineation",
+      "description": {
+        "value": "Specifies whether to place a hyphen also at the start of the line when breaking lines at a hyphen.\n\nauto | true | false",
         "kind": "markdown"
       }
     },
@@ -3729,6 +3842,159 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.fixed-width-pending-page-number"
+        } ],
+      "name": "-ah-fixed-width-pending-page-number",
+      "description": {
+        "value": "Specifies whether to render without waiting for page number resolution in CSS.\n\n&lt;boolean>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex"
+        } ],
+      "name": "flex",
+      "description": {
+        "value": "Shorthand property for setting properties related to the initial values of growing, shrinking and the width of the flex item.\n\nnone | [ &lt;'flex-grow'> &lt;'flex-shrink'>? || &lt;'flex-basis'> ]",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex"
+        } ],
+      "name": "-ah-flex",
+      "description": {
+        "value": "Shorthand property for setting properties related to the initial values of growing, shrinking and the width of the flex item.\n\nnone | [ &lt;'flex-grow'> &lt;'flex-shrink'>? || &lt;'flex-basis'> ]",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-basis"
+        } ],
+      "name": "flex-basis",
+      "description": {
+        "value": "Sets the initial value of the width of flex item in the main-axis direction.\n\ncontent | &lt;width>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-basis"
+        } ],
+      "name": "-ah-flex-basis",
+      "description": {
+        "value": "Sets the initial value of the width of flex item in the main-axis direction.\n\ncontent | &lt;width>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-direction"
+        } ],
+      "name": "flex-direction",
+      "description": {
+        "value": "Sets the main-axis direction of the flex container.\n\nrow | row-reverse | column | column-reverse",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-direction"
+        } ],
+      "name": "-ah-flex-direction",
+      "description": {
+        "value": "Sets the main-axis direction of the flex container.\n\nrow | row-reverse | column | column-reverse",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-flow"
+        } ],
+      "name": "flex-flow",
+      "description": {
+        "value": "Shorthand property for setting properties related to the direction of the flex container.\n\n&lt;'flex-direction'> || &lt;'flex-wrap'>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-flow"
+        } ],
+      "name": "-ah-flex-flow",
+      "description": {
+        "value": "Shorthand property for setting properties related to the direction of the flex container.\n\n&lt;'flex-direction'> || &lt;'flex-wrap'>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-grow"
+        } ],
+      "name": "flex-grow",
+      "description": { "value": "Sets the flex item's flex grow factor.\n\n&lt;number>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-grow"
+        } ],
+      "name": "-ah-flex-grow",
+      "description": { "value": "Sets the flex item's flex grow factor.\n\n&lt;number>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-shrink"
+        } ],
+      "name": "flex-shrink",
+      "description": { "value": "Sets the flex item's flex shrink factor.\n\n&lt;number>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-shrink"
+        } ],
+      "name": "-ah-flex-shrink",
+      "description": { "value": "Sets the flex item's flex shrink factor.\n\n&lt;number>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-wrap"
+        } ],
+      "name": "flex-wrap",
+      "description": {
+        "value": "Sets whether the flex container is single-line or multi-line, and the stacking direction of lines.\n\nnowrap | wrap | wrap-reverse",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.flex-wrap"
+        } ],
+      "name": "-ah-flex-wrap",
+      "description": {
+        "value": "Sets whether the flex container is single-line or multi-line, and the stacking direction of lines.\n\nnowrap | wrap | wrap-reverse",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -3741,7 +4007,7 @@
       ],
       "name": "float",
       "description": {
-        "value": "This is a shorthand property for setting float related extension properties.",
+        "value": "Shorthand property for setting float related extension properties.",
         "kind": "markdown"
       }
     },
@@ -3758,7 +4024,7 @@
       ],
       "name": "-ah-float",
       "description": {
-        "value": "This is a shorthand property for setting float related extension properties.",
+        "value": "Shorthand property for setting float related extension properties.",
         "kind": "markdown"
       }
     },
@@ -4162,6 +4428,418 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.gap"
+        } ],
+      "name": "gap",
+      "description": {
+        "value": "Shorthand property for setting properties related to the row and column gaps between items in the container.\n\n[normal | &lt;length> | &lt;percentage>]{1,2}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.gap"
+        } ],
+      "name": "-ah-gap",
+      "description": {
+        "value": "Shorthand property for setting properties related to the row and column gaps between items in the container.\n\n[normal | &lt;length> | &lt;percentage>]{1,2}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid"
+        } ],
+      "name": "grid",
+      "description": {
+        "value": "Shorthand property for setting grid related properties.\n\n&lt;'grid-template'> | &lt;'grid-template-rows'> \/ [ auto-flow && dense? ] &lt;'grid-auto-columns'>? | [ auto-flow && dense? ] &lt;'grid-auto-rows'>? \/ &lt;'grid-template-columns'>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid"
+        } ],
+      "name": "-ah-grid",
+      "description": {
+        "value": "Shorthand property for setting grid related properties.\n\n&lt;'grid-template'> | &lt;'grid-template-rows'> \/ [ auto-flow && dense? ] &lt;'grid-auto-columns'>? | [ auto-flow && dense? ] &lt;'grid-auto-rows'>? \/ &lt;'grid-template-columns'>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-area"
+        } ],
+      "name": "grid-area",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]{0,3}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-area"
+        } ],
+      "name": "-ah-grid-area",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]{0,3}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-rows-columns"
+        } ],
+      "name": "grid-auto-columns",
+      "description": {
+        "value": "Specifies the size of tracks not assigned a size by grid-template-columns.\n\n&lt;track-size>+",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-rows-columns"
+        } ],
+      "name": "-ah-grid-auto-columns",
+      "description": {
+        "value": "Specifies the size of tracks not assigned a size by grid-template-columns.\n\n&lt;track-size>+",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-flow"
+        } ],
+      "name": "grid-auto-flow",
+      "description": {
+        "value": "Specifies how auto-placed grid items are flowed into the grid.\n\n[ row | column ] || dense",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-flow"
+        } ],
+      "name": "-ah-grid-auto-flow",
+      "description": {
+        "value": "Specifies how auto-placed grid items are flowed into the grid.\n\n[ row | column ] || dense",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-rows-columns"
+        } ],
+      "name": "grid-auto-rows",
+      "description": {
+        "value": "Specifies the size of tracks not assigned a size by grid-template-rows.\n\n&lt;track-size>+",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-auto-rows-columns"
+        } ],
+      "name": "-ah-grid-auto-rows",
+      "description": {
+        "value": "Specifies the size of tracks not assigned a size by grid-template-rows.\n\n&lt;track-size>+",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-column"
+        } ],
+      "name": "grid-column",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement in a column.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-column"
+        } ],
+      "name": "-ah-grid-column",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement in a column.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "grid-column-end",
+      "description": {
+        "value": "Specifies the column end line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "-ah-grid-column-end",
+      "description": {
+        "value": "Specifies the column end line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-column-gap"
+        } ],
+      "name": "grid-column-gap",
+      "description": {
+        "value": "Legacy shorthand property for column-gap.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-column-gap"
+        } ],
+      "name": "-ah-grid-column-gap",
+      "description": {
+        "value": "Legacy shorthand property for column-gap.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "grid-column-start",
+      "description": {
+        "value": "Specifies the column start line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "-ah-grid-column-start",
+      "description": {
+        "value": "Specifies the column start line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-gap"
+        } ],
+      "name": "grid-gap",
+      "description": {
+        "value": "Legacy shorthand property for gap.\n\n[normal | &lt;length> | &lt;percentage>]{1,2}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-gap"
+        } ],
+      "name": "-ah-grid-gap",
+      "description": {
+        "value": "Legacy shorthand property for gap.\n\n[normal | &lt;length> | &lt;percentage>]{1,2}",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row"
+        } ],
+      "name": "grid-row",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement in a row.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row"
+        } ],
+      "name": "-ah-grid-row",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid item placement in a row.\n\n&lt;grid-line> [ \/ &lt;grid-line> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "grid-row-end",
+      "description": {
+        "value": "Specifies the row end line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "-ah-grid-row-end",
+      "description": {
+        "value": "Specifies the row end line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-gap"
+        } ],
+      "name": "grid-row-gap",
+      "description": {
+        "value": "Legacy shorthand property for row-gap.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-gap"
+        } ],
+      "name": "-ah-grid-row-gap",
+      "description": {
+        "value": "Legacy shorthand property for row-gap.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "grid-row-start",
+      "description": {
+        "value": "Specifies the row start line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-row-column-start-end"
+        } ],
+      "name": "-ah-grid-row-start",
+      "description": {
+        "value": "Specifies the row start line of a grid item.\n\n&lt;grid-line>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template"
+        } ],
+      "name": "grid-template",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid track list and named grid areas.\n\nnone | [ &lt;'grid-template-rows'> \/ &lt;'grid-template-columns'> ] | [ &lt;line-names>? &lt;string> &lt;track-size>? &lt;line-names>? ]+ [ \/ &lt;explicit-track-list> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template"
+        } ],
+      "name": "-ah-grid-template",
+      "description": {
+        "value": "Shorthand property for setting properties related to the grid track list and named grid areas.\n\nnone | [ &lt;'grid-template-rows'> \/ &lt;'grid-template-columns'> ] | [ &lt;line-names>? &lt;string> &lt;track-size>? &lt;line-names>? ]+ [ \/ &lt;explicit-track-list> ]?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-areas"
+        } ],
+      "name": "grid-template-areas",
+      "description": { "value": "Specifies named grid areas.\n\nnone | &lt;string>+","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-areas"
+        } ],
+      "name": "-ah-grid-template-areas",
+      "description": { "value": "Specifies named grid areas.\n\nnone | &lt;string>+","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-rows-columns"
+        } ],
+      "name": "grid-template-columns",
+      "description": {
+        "value": "Specifies the track list of the grid columns.\n\nnone | &lt;track-list> | &lt;auto-track-list> | subgrid &lt;line-name-list>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-rows-columns"
+        } ],
+      "name": "-ah-grid-template-columns",
+      "description": {
+        "value": "Specifies the track list of the grid columns.\n\nnone | &lt;track-list> | &lt;auto-track-list> | subgrid &lt;line-name-list>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-rows-columns"
+        } ],
+      "name": "grid-template-rows",
+      "description": {
+        "value": "Specifies the track list of the grid rows.\n\nnone | &lt;track-list> | &lt;auto-track-list> | subgrid &lt;line-name-list>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.grid-template-rows-columns"
+        } ],
+      "name": "-ah-grid-template-rows",
+      "description": {
+        "value": "Specifies the track list of the grid rows.\n\nnone | &lt;track-list> | &lt;auto-track-list> | subgrid &lt;line-name-list>?",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -4451,6 +5129,20 @@
       }
     },
     {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-preproc"
+        },
+        {
+          "name": "Embed Microsoft Office documents using OSDC (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/graphics\/axf-image-preproc-1.pdf"
+        }
+      ],
+      "name": "-ah-image-preproc",
+      "description": { "value": "Preprocesses the image.\n\n&lt;string>","kind": "markdown" }
+    },
+    {
       "references": [ {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.image-resolution"
@@ -4600,6 +5292,17 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-start-intrusion"
+        } ],
+      "name": "-ah-initial-letters-start-intrusion",
+      "description": {
+        "value": "Specifies the alignment of a float on the start side of the dropped initial.\n\nnone | first-line",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -4673,11 +5376,77 @@
     {
       "references": [ {
           "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.justify-content"
+        } ],
+      "name": "justify-content",
+      "description": {
+        "value": "Sets the alignment of items in the main-axis direction.\n\nflex-start | flex-end | center | space-between | space-around (Flexible Box) normal | &lt;content-distribution> | &lt;overflow-position>? [ &lt;content-position> | left | right ] (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.justify-content"
+        } ],
+      "name": "-ah-justify-content",
+      "description": {
+        "value": "Sets the alignment of items in the main-axis direction.\n\nflex-start | flex-end | center | space-between | space-around (Flexible Box) normal | &lt;content-distribution> | &lt;overflow-position>? [ &lt;content-position> | left | right ] (Grid)",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.justify-items"
+        } ],
+      "name": "justify-items",
+      "description": {
+        "value": "Specifies the default justify-self value for all of the child boxes in the container.\n\nnormal | stretch | &lt;baseline-position> | &lt;overflow-position>? [ &lt;self-position> | left | right ] | legacy | legacy && [ left | right | center ]",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.justify-items"
+        } ],
+      "name": "-ah-justify-items",
+      "description": {
+        "value": "Specifies the default justify-self value for all of the child boxes in the container.\n\nnormal | stretch | &lt;baseline-position> | &lt;overflow-position>? [ &lt;self-position> | left | right ] | legacy | legacy && [ left | right | center ]",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.justify-nbsp"
         } ],
       "name": "-ah-justify-nbsp",
       "description": {
         "value": "Specifies whether to justify NON-BREAKING SPACE or not.\n\ntrue | false",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.justify-self"
+        } ],
+      "name": "justify-self",
+      "description": {
+        "value": "Specifies the justification along the inline axis of the item within its container.\n\nauto | normal | stretch | &lt;baseline-position> | &lt;overflow-position>? [ &lt;self-position> | left | right ]",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.justify-self"
+        } ],
+      "name": "-ah-justify-self",
+      "description": {
+        "value": "Specifies the justification along the inline axis of the item within its container.\n\nauto | normal | stretch | &lt;baseline-position> | &lt;overflow-position>? [ &lt;self-position> | left | right ]",
         "kind": "markdown"
       }
     },
@@ -4713,34 +5482,6 @@
         "value": "Specifies the style used for Japanese numerals.\n\nsimple | grouping | readable",
         "kind": "markdown"
       }
-    },
-    {
-      "references": [
-        {
-          "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
-        },
-        {
-          "name": "Introduction to CSS for Paged Media",
-          "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-inside"
-        }
-      ],
-      "name": "break-inside",
-      "description": { "value": "auto | avoid | avoid-page | avoid-column","kind": "markdown" }
-    },
-    {
-      "references": [
-        {
-          "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.break-inside"
-        },
-        {
-          "name": "Introduction to CSS for Paged Media",
-          "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=break-inside"
-        }
-      ],
-      "name": "-ah-break-inside",
-      "description": { "value": "auto | avoid | avoid-page | avoid-column","kind": "markdown" }
     },
     {
       "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#keep-together" } ],
@@ -4786,7 +5527,7 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.kerning-mode"
         },
         {
-          "name": "Pair Kerning in Alphabets (FO)",
+          "name": "Pair kerning in alphabets (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/line\/axf-kerning-mode-1.pdf"
         }
       ],
@@ -4854,7 +5595,7 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.ligature-mode"
         },
         {
-          "name": "Ligatures in Alphabets (FO)",
+          "name": "Ligatures in alphabets (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/line\/axf-ligature-mode-1.pdf"
         }
       ],
@@ -5741,6 +6482,28 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.order"
+        } ],
+      "name": "order",
+      "description": {
+        "value": "Sets the order priority in which items appear.\n\n&lt;integer>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-flex.html#axf.order"
+        } ],
+      "name": "-ah-order",
+      "description": {
+        "value": "Sets the order priority in which items appear.\n\n&lt;integer>",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -6109,6 +6872,72 @@
     {
       "references": [ {
           "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-content"
+        } ],
+      "name": "place-content",
+      "description": {
+        "value": "Shorthand property for setting properties related to the default alignment of items in a contianer.\n\n&lt;align-content> &lt;justify-content>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-content"
+        } ],
+      "name": "-ah-place-content",
+      "description": {
+        "value": "Shorthand property for setting properties related to the default alignment of items in a contianer.\n\n&lt;align-content> &lt;justify-content>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-items"
+        } ],
+      "name": "place-items",
+      "description": {
+        "value": "Shorthand property for setting properties related to alignment of items in the grid container.\n\n&lt;‘align-items’> &lt;‘justify-items’>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-items"
+        } ],
+      "name": "-ah-place-items",
+      "description": {
+        "value": "Shorthand property for setting properties related to alignment of items in the grid container.\n\n&lt;‘align-items’> &lt;‘justify-items’>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-self"
+        } ],
+      "name": "place-self",
+      "description": {
+        "value": "Specifies self-alignment of items in the container.\n\n&lt;align-self> &lt;justify-self>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.place-self"
+        } ],
+      "name": "-ah-place-self",
+      "description": {
+        "value": "Specifies self-alignment of items in the container.\n\n&lt;align-self> &lt;justify-self>?",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.poster-content-type"
         } ],
       "name": "-ah-poster-content-type",
@@ -6277,7 +7106,7 @@
       ],
       "name": "-ah-printer-marks-line-length",
       "description": {
-        "value": "Specifies the line length of printer marks.\n\n&lt;length> | auto",
+        "value": "Specifies the line length of printer marks.\n\n&lt;length> &lt;length>? | auto",
         "kind": "markdown"
       }
     },
@@ -6295,6 +7124,23 @@
       "name": "-ah-printer-marks-line-width",
       "description": {
         "value": "Specifies the line width of printer marks.\n\n&lt;length> | auto",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.printer-marks-over-content"
+        },
+        {
+          "name": "Specifies whether printer marks are drawn over the page content (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/pdf\/axf-printer-marks-over-content-1.pdf"
+        }
+      ],
+      "name": "-ah-printer-marks-over-content",
+      "description": {
+        "value": "Specifies whether printer marks are drawn over the page content.\n\nfalse | true",
         "kind": "markdown"
       }
     },
@@ -6567,6 +7413,28 @@
       }
     },
     {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.row-gap"
+        } ],
+      "name": "row-gap",
+      "description": {
+        "value": "Specifies the gutter between items in the container.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-grid.html#axf.row-gap"
+        } ],
+      "name": "-ah-row-gap",
+      "description": {
+        "value": "Specifies the gutter between items in the container.\n\nnormal | &lt;length> | &lt;percentage>",
+        "kind": "markdown"
+      }
+    },
+    {
       "references": [
         {
           "name": "Antenna House Formatter manual",
@@ -6601,10 +7469,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-color"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-color",
       "description": { "value": "Specifies the color of ruby text.\n\n&lt;color>","kind": "markdown" }
     },
@@ -6626,10 +7500,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-family"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-font-family",
       "description": {
         "value": "Specifies the font family of ruby text.\n\n[ &lt;family-name> | &lt;generic-family> ]#",
@@ -6637,10 +7517,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-size"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-font-size",
       "description": {
         "value": "Specifies the font size of ruby text.\n\n&lt;number> | &lt;absolute-size> | &lt;relative-size> | &lt;length> | &lt;percentage>",
@@ -6648,10 +7534,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-stretch"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-font-stretch",
       "description": {
         "value": "Specifies the font stretching of ruby text.\n\nnormal | wider | narrower | ultra-condensed | extra-condensed | condensed | semi-condensed | semi-expanded | expanded | extra-expanded | ultra-expanded | &lt;percentage> | &lt;number>",
@@ -6659,18 +7551,30 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-style"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-font-style",
       "description": { "value": "Specifies the font style of ruby text.\n\nnormal | italic","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-font-weight"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-font-weight",
       "description": {
         "value": "Specifies the font weight of ruby text.\n\nnormal | bold | bolder | lighter | 1...1000",
@@ -6712,10 +7616,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-minimum-font-size"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-minimum-font-size",
       "description": {
         "value": "Specifies the minimum font size of ruby text.\n\nnone | &lt;absolute-size> | &lt;relative-size> | &lt;length> | &lt;percentage>",
@@ -6790,10 +7700,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-small-kana"
-        } ],
+        },
+        {
+          "name": "Ruby text appearance (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-5.pdf"
+        }
+      ],
       "name": "-ah-ruby-small-kana",
       "description": {
         "value": "Specifies whether to allow using small kana for ruby text.\n\nauto | preserve| convert",
@@ -6825,6 +7741,11 @@
         "value": "Specifies whether to show the player control bar for multimedia.\n\ntrue | false",
         "kind": "markdown"
       }
+    },
+    {
+      "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#show-destination" } ],
+      "name": "-ah-show-destination",
+      "description": { "value": "replace | new","kind": "markdown" }
     },
     {
       "references": [
@@ -6969,6 +7890,10 @@
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=MultiColumnSpan"
+        },
+        {
+          "name": "Space before and after a spanning block (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/space-after-2.pdf"
         }
       ],
       "name": "column-span",
@@ -6983,6 +7908,10 @@
         {
           "name": "Introduction to CSS for Paged Media",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/uploads\/CSS\/CSS-Print-en-2019-02-15.pdf#nameddest=MultiColumnSpan"
+        },
+        {
+          "name": "Space before and after a spanning block (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/space-after-2.pdf"
         }
       ],
       "name": "-ah-column-span",
@@ -7079,7 +8008,7 @@
         } ],
       "name": "-ah-suppress-if-first-on-page",
       "description": {
-        "value": "Specifies whether to suppress the block at the beginning of a page or column.\n\nfalse | true | unless",
+        "value": "Specifies whether to suppress the block at the start of the page or the column.\n\nfalse | true | unless",
         "kind": "markdown"
       }
     },
@@ -8184,6 +9113,17 @@
         } ],
       "name": "-ah-unicode-range",
       "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+    },
+    {
+      "references": [ {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.url-break"
+        } ],
+      "name": "-ah-url-break",
+      "description": {
+        "value": "Specifies how to perform the line breaking in a URL.\n\nnormal | chicago",
+        "kind": "markdown"
+      }
     },
     {
       "references": [

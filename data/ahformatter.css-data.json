@@ -825,7 +825,7 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.avoid-widow-words"
         },
         {
-          "name": "Uncounting the last punctuation mark in one character at the end of the line (FO)",
+          "name": "Exclude punctuation from CJK widow word (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/line\/axf-avoid-widow-words-cjk-punctuation-1.pdf"
         },
         {
@@ -846,7 +846,7 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.avoid-widow-words-cjk-punctuation"
         },
         {
-          "name": "Uncounting the last punctuation mark in one character at the end of the line (FO)",
+          "name": "Exclude punctuation from CJK widow word (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/line\/axf-avoid-widow-words-cjk-punctuation-1.pdf"
         }
       ],
@@ -1680,6 +1680,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after-style"
         },
         {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
+        },
+        {
           "name": "Creating optional spaces around text inside a block (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/indent-border-padding-1.pdf"
         },
@@ -1703,6 +1707,10 @@
         {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-after-width"
+        },
+        {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
         },
         {
           "name": "Creating optional spaces around text inside a block (FO)",
@@ -1780,6 +1788,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before-style"
         },
         {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
+        },
+        {
           "name": "Creating optional spaces around text inside a block (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/indent-border-padding-1.pdf"
         },
@@ -1803,6 +1815,10 @@
         {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-before-width"
+        },
+        {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
         },
         {
           "name": "Creating optional spaces around text inside a block (FO)",
@@ -2022,6 +2038,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end-style"
         },
         {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
+        },
+        {
           "name": "Creating optional spaces around text inside a block (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/indent-border-padding-1.pdf"
         },
@@ -2045,6 +2065,10 @@
         {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-end-width"
+        },
+        {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
         },
         {
           "name": "Creating optional spaces around text inside a block (FO)",
@@ -2240,6 +2264,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start-style"
         },
         {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
+        },
+        {
           "name": "Creating optional spaces around text inside a block (FO)",
           "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/indent-border-padding-1.pdf"
         },
@@ -2263,6 +2291,10 @@
         {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.border-start-width"
+        },
+        {
+          "name": "Border style and border width (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/line-style-1.pdf"
         },
         {
           "name": "Creating optional spaces around text inside a block (FO)",
@@ -3299,18 +3331,30 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-color"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-color",
       "description": { "value": "Specifies the color of the diagonal border.\n\n&lt;color>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-style"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-style",
       "description": {
         "value": "Specifies the style of the diagonal border.\n\n&lt;border-style>",
@@ -3318,10 +3362,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.diagonal-border-width"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-width",
       "description": {
         "value": "Specifies the width of the diagonal border.\n\n&lt;border-width>",
@@ -3424,10 +3474,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.double-hyphen-translineation"
-        } ],
+        },
+        {
+          "name": "Specifies whether to place a hyphen also at the start of the line when breaking lines at a hyphen (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/line\/axf-double-hyphen-translineation-1.pdf"
+        }
+      ],
       "name": "-ah-double-hyphen-translineation",
       "description": {
         "value": "Specifies whether to place a hyphen also at the start of the line when breaking lines at a hyphen.\n\nauto | true | false",
@@ -5261,39 +5317,6 @@
     {
       "references": [ {
           "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation",
-      "description": {
-        "value": "Specifies the size of the leading punctuation of a dropped initial, etc.\n\nnormal | hide | [&lt;length> || &lt;color>]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation-position"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation-position",
-      "description": {
-        "value": "Specifies the position of the leading punctuation of a dropped initial in the inline progression direction.\n\nnormal | [[hang | intrude] && &lt;length>?]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-leading-punctuation-shift"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation-shift",
-      "description": {
-        "value": "Specifies the position of the leading punctuation of a dropped initial in the block progression direction.\n\nnormal | [[baseline | before | middle | after] || &lt;length>]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.initial-letters-start-intrusion"
         } ],
       "name": "-ah-initial-letters-start-intrusion",
@@ -5519,6 +5542,16 @@
         "value": "Specifies the upper limit width of the keep-together.within-line condition.\n\nall | &lt;length>",
         "kind": "markdown"
       }
+    },
+    {
+      "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#keep-with-next" } ],
+      "name": "-ah-keep-with-next",
+      "description": { "value": "<keep>","kind": "markdown" }
+    },
+    {
+      "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#keep-with-previous" } ],
+      "name": "-ah-keep-with-previous",
+      "description": { "value": "<keep>","kind": "markdown" }
     },
     {
       "references": [
@@ -7140,7 +7173,7 @@
       ],
       "name": "-ah-printer-marks-over-content",
       "description": {
-        "value": "Specifies whether printer marks are drawn over the page content.\n\nfalse | true",
+        "value": "Specifies whether printer marks are rendered over the page content.\n\nfalse | true",
         "kind": "markdown"
       }
     },
@@ -7317,10 +7350,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-color"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-color",
       "description": {
         "value": "Specifies the color of the reverse diagonal border.\n\n&lt;color>",
@@ -7328,10 +7367,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-style"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-style",
       "description": {
         "value": "Specifies the style of the reverse diagonal border.\n\n&lt;border-style>",
@@ -7339,10 +7384,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.reverse-diagonal-border-width"
-        } ],
+        },
+        {
+          "name": "Drawing a diagonal border (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-width",
       "description": {
         "value": "Specifies the width of the reverse diagonal border.\n\n&lt;border-width>",
@@ -7633,10 +7684,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-offset"
-        } ],
+        },
+        {
+          "name": "Ruby alignment (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "-ah-ruby-offset",
       "description": {
         "value": "Specifies the spacing between the ruby text and its base characters.\n\n&lt;number> | &lt;length> | &lt;percentage>",
@@ -7678,10 +7735,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-position"
-        } ],
+        },
+        {
+          "name": "Ruby alignment (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "ruby-position",
       "description": {
         "value": "Specifies on which side of the base characters the ruby text appears.\n\nbefore | after | [[ over | under | inter-character ] || [ right | left ]]",
@@ -7689,10 +7752,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-position"
-        } ],
+        },
+        {
+          "name": "Ruby alignment (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "-ah-ruby-position",
       "description": {
         "value": "Specifies on which side of the base characters the ruby text appears.\n\nbefore | after | [[ over | under | inter-character ] || [ right | left ]]",
@@ -7704,6 +7773,10 @@
         {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ruby.html#axf.ruby-small-kana"
+        },
+        {
+          "name": "Ruby alignment (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/ruby\/axf-ruby-3.pdf"
         },
         {
           "name": "Ruby text appearance (FO)",
@@ -7782,18 +7855,30 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
-        } ],
+        },
+        {
+          "name": "Specify the Unicode range of the font added by axf:font-face, and adjust the font size (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "size-adjust",
       "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter manual",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
-        } ],
+        },
+        {
+          "name": "Specify the Unicode range of the font added by axf:font-face, and adjust the font size (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "-ah-size-adjust",
       "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
     },
@@ -9101,16 +9186,50 @@
     {
       "references": [ {
           "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.unicode-bidi"
         } ],
-      "name": "unicode-range",
-      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+      "name": "unicode-bidi",
+      "description": {
+        "value": "normal | embed | isolate | bidi-override | isolate-override | plaintext",
+        "kind": "markdown"
+      }
     },
     {
       "references": [ {
           "name": "Antenna House Formatter manual",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.unicode-bidi"
         } ],
+      "name": "-ah-unicode-bidi",
+      "description": {
+        "value": "normal | embed | isolate | bidi-override | isolate-override | plaintext",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        },
+        {
+          "name": "Specify the Unicode range of the font added by axf:font-face, and adjust the font size (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/character\/axf-font-face-2.pdf"
+        }
+      ],
+      "name": "unicode-range",
+      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter manual",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/en\/ahf-ext.html#axf.font-face"
+        },
+        {
+          "name": "Specify the Unicode range of the font added by axf:font-face, and adjust the font size (FO)",
+          "url": "https:\/\/www.antennahouse.com\/hubfs\/xsl-fo-sample\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "-ah-unicode-range",
       "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
     },
